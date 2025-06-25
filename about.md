@@ -25,7 +25,7 @@ I am a Techno-Anthropologist and live in Copenhagen. When I am not on my compute
 </ul>
 
 <ul>
-<strong>BSc Market & Management Anthropology, 2020/strong>
+<strong>BSc Market & Management Anthropology, 2020</strong>
 <li>University of Southern Denmark, Odense </li>
 </ul>
 
