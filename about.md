@@ -9,13 +9,13 @@ permalink: /about/
 <br/>
 Hi.
 I am Sarah. 
-I am a Techno-Anthropologist and live in Copenhagen. When I am not on my computer, I love running, visiting art & science exhibitions, or 
+I am a Techno-Anthropologist and live in Copenhagen. When I am not on my computer, I love running, drinking coffee and visiting art & science exhibitions.
 <br/>
 
 ***
 <br/>
 
-<h4> CV </h4>
+<h4> A taste of my CV </h4>
 <br/>
 
 <ul>
