@@ -11,8 +11,8 @@ img:
 
 <br/>
 <div class="img_row">
-	// <img class="col two" src="{{ site.baseurl }}/assets/img/ballerup.png" alt="image1" title="image1"/>
-	// <img class="col one" src="{{ site.baseurl }}/" alt="image2" title="image2"/>
+	 <img class="col two" src="{{ site.baseurl }}/assets/img/ballerup.png" alt="image1" title="image1"/>
+	 <img class="col one" src="{{ site.baseurl }}/" alt="image2" title="image2"/>
 </div>
 <div>
 <img />
