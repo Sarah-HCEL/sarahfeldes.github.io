@@ -1,3 +1,28 @@
-theme: jekyll-theme-minimal
+# Site settings
 title: Sarah Feldes
-desdription: Project Portfolio
+email: feldessarah@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  https://sarah-hcel.github.io/sarahfeldes.github.io/
+# the base hostname & protocol for your site
+github_username:  Sarah-HCEL
+
+# Build settings
+markdown: md
+
+# highlighter: pygments
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/research/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
