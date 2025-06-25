@@ -22,7 +22,7 @@ paginate_path: "/research/page:num/"
 collections:
   portfolio:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /portfolio.md
   notes:
     output: true
     permalink: /notes/:path/
