@@ -29,5 +29,5 @@ An exhibition design that invites visitors to "step onto AI". The 100 square met
 <p align="middle">
 </p>
 <br/>
-<i>Learn more about the project [https://player.vimeo.com/video/248985117](https://grounding-ai.github.io) </i>
+<li>Learn more about the project <a href="{{ site.baseurl }}/https://grounding-ai.github.io">here</a>.</li>
 <br/><br/><br/>
