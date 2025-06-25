@@ -31,7 +31,7 @@ I am a Techno-Anthropologist and live in Copenhagen. When I am not on my compute
 
 <ul>
 <strong>Selected Publications</strong>
-</ul>ul>
+</ul>
 
 <ul>
 <li>Ayahuasca calling, 2022</li>
