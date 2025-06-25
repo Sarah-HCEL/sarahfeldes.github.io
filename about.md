@@ -43,6 +43,6 @@ I am a Techno-Anthropologist and live in Copenhagen. When I am not on my compute
 
 
 <br/><br/>
-<li>Full CV in pdf <a href="{{ site.baseurl }}/pdfs/">here</a>.</li>
+<li>Full CV as a pdf <a href="{{ site.baseurl }}/pdfs/CV_JUNE2025.pdf">here</a>.</li>
 
 <br/><br/>
