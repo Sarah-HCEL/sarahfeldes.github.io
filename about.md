@@ -31,23 +31,18 @@ I am a Techno-Anthropologist and live in Copenhagen. When I am not on my compute
 
 <ul>
 <strong>Selected Publications</strong>
+</ul>ul>
 
+<ul>
 <li>Ayahuasca calling, 2022</li>
 <li>Grounding AI Exhibition, 2025 </li>
 <li>Friction in Digital Methods Making - Poster STS Hub Berlin, 2025</li>
 <li>Who's my host? Chatbots for Internet Research, Amsterdam, 2025</li>
 </ul>
 
-<ul>
-<li>SNU Hippie Generation(performance), 2012</li>
-<li>Meat Times series(videos etc), 2013-2016</li>
-<li>Agreed.(interactive installation), 2016</li>
-<li>Mask series(performance), 2016</li>
-</ul>
-
 
 
 <br/><br/>
-<i>Full CV in pdf <a href="{{ site.baseurl }}/pdfs/">here</a>.</i>
+<li>Full CV in pdf <a href="{{ site.baseurl }}/pdfs/">here</a>.</li>
 
 <br/><br/>
