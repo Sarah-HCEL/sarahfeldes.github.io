@@ -27,8 +27,7 @@ img:
 An exhibition design that invites visitors to "step onto AI". The 100 square meter floormap shows AI's many roles in scientific literature. Visualized as a semantic map, people can walk around the flooring and explore the diverse areas where AI finds relevance in science.
 
 <p align="middle">
-<iframe src="[https://player.vimeo.com/video/248985117](https://grounding-ai.github.io)" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 <br/>
-<i>Learn more about the project </i>
+<i>Learn more about the project [https://player.vimeo.com/video/248985117](https://grounding-ai.github.io) </i>
 <br/><br/><br/>
