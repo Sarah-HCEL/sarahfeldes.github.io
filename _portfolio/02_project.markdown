@@ -10,14 +10,13 @@ img:
 ***
 
 <br/>
-<div class="img_row">
-	 <img class="col two" src="{{ site.baseurl }}/assets/img/" alt="image1" title="image1"/>
-	 <img class="col one" src="{{ site.baseurl }}/assets/img/" alt="image2" title="image2"/>
+<div>
+	 <img class="col three" src="/assets/img/berlinposter.png" alt="poster for the Berlin STS conference" title="Poster ofr the STS Hub Berlin Conference 2025"/>
 </div>
 <div>
 <img />
 </div>
-<div class="col three caption">
+<div>
 	
 </div>
 
