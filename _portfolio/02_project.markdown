@@ -11,7 +11,7 @@ img:
 
 <br/>
 <div>
-	 <img class="col three" src="/img/berlinposter.png" alt="poster for the Berlin STS conference" title="Poster ofr the STS Hub Berlin Conference 2025"/>
+	 <img class="col three" src="/assets/img/berlinposter.png" alt="poster for the Berlin STS conference" title="Poster ofr the STS Hub Berlin Conference 2025"/>
 </div>
 <div>
 <img />
