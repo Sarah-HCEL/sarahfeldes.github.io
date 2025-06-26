@@ -9,7 +9,7 @@ url:  https://sarah-hcel.github.io/sarahfeldes.github.io/
 github_username:  Sarah-HCEL
 
 # Build settings
-markdown: md
+markdown: kramdown
 
 # highlighter: pygments
 highlighter: rouge
@@ -22,7 +22,7 @@ paginate_path: "/research/page:num/"
 collections:
   portfolio:
     output: true
-    permalink: /portfolio.md
+    permalink: /portfolio/:path/
   notes:
     output: true
     permalink: /notes/:path/
