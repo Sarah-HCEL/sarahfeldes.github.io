@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Urban Digital Accesssibility Assessment
+title: Digital Accesssibility Assessment
 description: Urban Belonging Photo Voice App
 img: 
 ---
