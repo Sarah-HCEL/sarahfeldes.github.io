@@ -5,7 +5,7 @@ description: Urban Belonging Photo Voice App
 img: 
 ---
 
-<i>The Urban Belonging Photo Voice App for ethnographic research/i>
+<i>The Urban Belonging Photo Voice App for ethnographic research</i>
 
 ***
 
