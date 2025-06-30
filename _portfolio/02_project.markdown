@@ -2,7 +2,7 @@
 layout: post
 title: Digital Accesssibility Assessment
 description: Urban Belonging Photo Voice App
-img: 
+img: /img/berlinposter.png
 ---
 
 <i>The Urban Belonging Photo Voice App for ethnographic research</i>
