@@ -30,5 +30,5 @@ The poster above is a reflection (or diffraction) on the work we have done and h
 <p align="middle">
 </p>
 <br/>
-<li>Learn more about the project<a href="http://github.com/ECHOlab-DTU/UB-App-Accessibility-Development" target="blank">here</a>.</li>
+<li>Learn more about the project <a href="http://github.com/ECHOlab-DTU/UB-App-Accessibility-Development" target="blank">here</a>.</li>
 <br/><br/><br/>
