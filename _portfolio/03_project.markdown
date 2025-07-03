@@ -12,9 +12,9 @@ img:
 <br/>
 <p aligen="middle">
 
-Between march 2023 and June 2024 I worked at ‘<a href="http://willandagency.com" target="blank">Will & Agency ApS</a>’ , a design-anthropological consultancy specialized in merging Anthropology, AI & Design.
+Between march 2023 and June 2024 I worked at <a href="http://willandagency.com" target="blank">Will & Agency ApS</a> , a design-anthropological consultancy specialized in merging Anthropology, AI & Design.
 <br/>
-During my time, I worked on many movie projects, pertaining to the ´<a href="http://publikum.io" target="blank">Publikum</a> division. 
+During my time, I worked on many movie projects, pertaining to the <a href="http://publikum.io" target="blank">Publikum</a> division. 
 
 <div>
 </div>
