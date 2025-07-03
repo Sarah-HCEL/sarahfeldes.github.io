@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Grounding AI
-description: Large Scale Data Visualization 
-img: ./img/ballerup2.JPG
+title: Project
+description: a project with a background image
+img: /img/ballerup2.jpg
 ---
 
 <i>The Grounding AI Floormap</i>
