@@ -4,7 +4,9 @@ title: Let's connect! Open for new projects.
 date: 03.07.2025
 description: Lookout for autumn 2025
 ---
-As of August 2025, I am open to new adventures. If you are an artist, researchers, consultant, employer, or interested in collaborating in general - don't hesitate to reach out.
+As of August 2025, I am open to new adventures. 
+
+If you are an artist, researchers, consultant, employer, or interested in collaborating in general - don't hesitate to reach out.
 <br/>
 
 
@@ -12,11 +14,3 @@ As of August 2025, I am open to new adventures. If you are an artist, researcher
 </div>
 <br/><br/><br/>
 
-
-***
-
-<br/>
-<p align="middle">
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe></p>
-
-<br/><br/><br/>
