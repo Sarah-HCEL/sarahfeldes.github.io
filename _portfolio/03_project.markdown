@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Design-Anthropological Consultancy 
-description: Work Experience
-img:
+title: Consultancy 
+description: Design, Anthropology & AI
+img: 
 ---
 
 <i>Experiences from working in a Design-Anthropological Consultancy</i>
