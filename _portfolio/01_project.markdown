@@ -2,7 +2,7 @@
 layout: post
 title: Grounding AI
 description: Large Scale Data Visualization
-img: /img/ballerup2.jpg
+img: /img/ballerup2.JPG
 ---
 
 <i>The Grounding AI Floormap</i>
