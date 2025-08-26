@@ -6,7 +6,7 @@ description: Lookout for autumn 2025
 ---
 As of August 2025, I am open to new adventures. 
 
-If you are an artist, researchers, consultant, employer, or interested in collaborating in general - don't hesitate to reach out.
+If you are a researcher, artist, consultant, or interested in collaborating in general - don't hesitate to reach out.
 <br/>
 
 
