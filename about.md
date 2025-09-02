@@ -9,7 +9,12 @@ permalink: /about/
 <br/>
 Hi.
 I am Sarah. 
-I am a Techno-Anthropologist and live in Copenhagen. When I am not on my computer, I love running, drinking coffee and visiting art & science exhibitions.
+I am a Techno-Anthropologist from Copenhagen. 
+As a researcher by training and an aesthete by heard, I strive to make science and design meet. I have a passion for data visualizations in unusual ways.
+Exhibitions, performances, movie scripts, art pieces - whatever can be a form of expression can be science communication.
+
+
+
 <br/>
 
 ***
@@ -19,13 +24,26 @@ I am a Techno-Anthropologist and live in Copenhagen. When I am not on my compute
 <br/>
 
 <ul>
-<strong>MSc Techno-Anthropology, 2024</strong>
+<strong>Research Assistant, 2024 - 2025</strong>
+<li> ECHO Lab - The Observatory for Human-Centred Innovation </li>
+<li> DTU Management - Science and Technology Studies Section, Kongens Lyngby </li>
+</ul>
+
+<ul>
+<strong>Assistant Research Consultant, 2023 - 2024</strong>
+<li> Will & Agencay / PUBLIKUM, Copenhagen </li>
+<li> Design-Anthropological & AI Consultancy </li>
+</ul>
+
+
+<ul>
+<strong>MSc Techno-Anthropology, 2022 - 2024</strong>
 <li> Aalborg University, Copenhagen </li>
 <li>Thesis title: "Opening the Blackbox of Generative AI with Microsoft Copilot" </li>
 </ul>
 
 <ul>
-<strong>BSc Market & Management Anthropology, 2020</strong>
+<strong>BSc Market & Management Anthropology, 2017 - 2020</strong>
 <li>University of Southern Denmark, Odense </li>
 </ul>
 
