@@ -10,7 +10,7 @@ permalink: /about/
 Hi.
 I am Sarah. 
 I am a Techno-Anthropologist from Copenhagen. 
-As a researcher by training and an aesthete by heard, I strive to make science and design meet. I have a passion for data visualizations in unusual ways.
+As a researcher by training and an aesthete by heart, I am inspired to make science and design meet. I have a passion for data visualizations in unusual ways.
 Exhibitions, performances, movie scripts, art pieces - whatever can be a form of expression can be science communication.
 
 
